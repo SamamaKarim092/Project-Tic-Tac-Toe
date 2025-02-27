@@ -7,7 +7,7 @@ This project implements a Tic-Tac-Toe game using Factory Functions in JavaScript
 - The game follows standard Tic-Tac-Toe rules.
 - Organized and modularized JavaScript code using Factory Functions for better structure and maintainability.
 
-Here is the picture of what I made
+## Here is the picture of what I made
 
 ![image](https://github.com/user-attachments/assets/3cb77f46-6614-4e38-bab9-13b323355b31)
 
