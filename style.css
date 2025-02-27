@@ -392,3 +392,15 @@ h1 {
 .modal h2 {
     margin-top: 10px;
 }
+
+.creatids{
+    background-color: white;
+    color: black;
+    position: fixed;
+    bottom: 10px;
+    left: 10px;
+    font-size: 18px;
+    padding: 10px 14px;
+    border-radius: 5px;
+    font-weight: 600;
+}
